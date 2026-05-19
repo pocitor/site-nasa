@@ -1,0 +1,15 @@
+
+h1 {
+  color: navy;
+  text-align: center;
+}
+
+p {
+  font-size: 1.1em;
+  color: #333; 
+  
+border: 2px solid navy;
+border-radius: 10px;
+box-shadow: 4px 4px 8px grey;
+}
+
